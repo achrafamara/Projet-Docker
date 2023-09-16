@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lO/WSrZjrjaSYTfrUzcxb6eEUdPNxH9quXr23K36I1paJv7MXl2VRsqGC5VA2FO+mhF3KMxtJMcPUgyKWPVAdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Achraf\\Desktop\\ep21-Docker-image-creation-main\\backend\\macro-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Achraf\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512",
+    "C:\\Users\\Achraf\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

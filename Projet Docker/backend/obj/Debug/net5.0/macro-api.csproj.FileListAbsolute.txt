@@ -1,0 +1,6 @@
+C:\Users\Achraf\Desktop\ep21-Docker-image-creation-main\backend\obj\Debug\net5.0\macro-api.csproj.AssemblyReference.cache
+C:\Users\Achraf\Desktop\ep21-Docker-image-creation-main\backend\obj\Debug\net5.0\macro-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Achraf\Desktop\ep21-Docker-image-creation-main\backend\obj\Debug\net5.0\macro-api.AssemblyInfoInputs.cache
+C:\Users\Achraf\Desktop\ep21-Docker-image-creation-main\backend\obj\Debug\net5.0\macro-api.AssemblyInfo.cs
+C:\Users\Achraf\Desktop\ep21-Docker-image-creation-main\backend\obj\Debug\net5.0\macro-api.csproj.CoreCompileInputs.cache
+C:\Users\Achraf\Desktop\ep21-Docker-image-creation-main\backend\obj\Debug\net5.0\macro-api.MvcApplicationPartsAssemblyInfo.cache
