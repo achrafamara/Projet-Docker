@@ -23,7 +23,7 @@ services:
       - 8080:8080
     networks: 
       - dockernet
-
+    
   backend:
     image: spm-backend
     deploy:
@@ -37,16 +37,13 @@ services:
       - 8000:8000
     networks: 
       - dockernet
-
+      
   frontend:
-    image: spm-frontend
-    deploy:
-      replicas: 1
+    image: spm-front
     ports:
       - 9000:9000
     networks: 
       - dockernet
-      
   nginx:
     image: nginx
     deploy:
@@ -54,6 +51,6 @@ services:
     ports:
       - 80:80
     volumes:
-      - ./ngnix.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
     networks:
       - dockernet
